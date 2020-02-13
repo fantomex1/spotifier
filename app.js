@@ -15,7 +15,7 @@ var cookieParser = require('cookie-parser');
 
 var client_id = ' 091c3c8ca4684323974b59ea7280d27f'; // Your client id
 var client_secret = 'd9fcd85bd05b4151aee51d3c5dd38738'; // Your secret
-var redirect_uri = 'http://fantomex1.github.io'; // Your redirect uri
+var redirect_uri = 'https://fantomex1.github.io/spotifier/'; // Your redirect uri
 
 /**
  * Generates a random string containing numbers and letters
